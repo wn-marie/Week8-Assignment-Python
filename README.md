@@ -28,6 +28,7 @@ A Python-based analysis of a **sample (10,000 rows)** from the CORD-19 metadata 
 5. Launch app:
    ```bash
    streamlit run src/app.py
+   ```
 
    Use this if `streamlit` command is not found:
    ```bash
