@@ -1,0 +1,17 @@
+# Ignore large data files
+data/metadata.csv
+data/metadata_clean.csv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit cache (optional)
+.streamlit/
+
+# Ignore VS Code settings (optional)
+.vscode/
